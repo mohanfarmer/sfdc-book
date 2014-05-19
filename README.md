@@ -5,7 +5,7 @@ Book on Salesforce
 
 Electronic book on Salesforce
 
-Topics covere:
+Topics covered:
 
  1. Architecture of Salesforce
  2. Comparision with similar Systems
